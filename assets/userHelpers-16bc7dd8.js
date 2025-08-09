@@ -1,0 +1,1 @@
+var i=(a=>(a.CONTENT="content",a.SIDEPANEL="sidepanel",a.BACKGROUND="background",a))(i||{});const t=a=>{var e,o,r;return((r=(o=(e=a==null?void 0:a.active_organization)==null?void 0:e.super_organization)==null?void 0:o.plan)==null?void 0:r.name)==="free"};export{i as M,t as i};
